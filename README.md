@@ -1,2 +1,0 @@
-# Sander-Sass
-Privacy policy
