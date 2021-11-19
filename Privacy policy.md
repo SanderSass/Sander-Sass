@@ -1,5 +1,5 @@
 # Sander-Sass
-##Privacy policy
+## Privacy policy
 
 Welcome to the Teele Android app!
 
@@ -13,5 +13,5 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 Yours sincerely,
 
-Sander Siimann
+Sander Siimann,
 Estonia.
